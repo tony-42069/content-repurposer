@@ -114,8 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- 
 - X: [@CREdebtDorian](https://twitter.com/credebtdorian)
 
 ---
-⭐ Star this repository if you find it helpful!
+
