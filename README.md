@@ -114,8 +114,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- GitHub: [@tony-42069](https://github.com/tony-42069)
-- Twitter: [@YourHandle](https://twitter.com/YourHandle)
+- 
+- X: [@CREdebtDorian](https://twitter.com/credebtdorian)
 
 ---
 ⭐ Star this repository if you find it helpful!
